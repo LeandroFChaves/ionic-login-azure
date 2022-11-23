@@ -1,0 +1,7 @@
+{
+  "name": "ionic-sso-azure-cordova",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
